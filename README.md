@@ -3,6 +3,21 @@
 
 A curation of Resources to help potensial scholarship aspirants answer questions like Why I should apply, how to apply and how I can put forward my best application.
 
+Taken from the official website:
+
+#### IMPORTANT NOTES
+
+-   In 2020, the Women Techmakers Scholars Program will only be open for year 1 and year 2 undergraduate students.    
+-   WTMSP is primarily open for students studying in Mainland China, Hong Kong SAR, Macau SAR, Taiwan and India.    
+-   For students from all other regions in Asia Pacific, across undergraduate, post graduate and PhD levels, we have a host of other programs at Google that better align to local market nuances and needs. So we request you all to sign up here for these programs: https://services.google.cn/fb/forms/keepintouchwithus/.
+
+#### To be eligible to apply to WTMSP, applicants must:
+
+-   Identify as female.    
+-   Currently be enrolled at an accredited university for the 2020-2021 academic year.    
+-   Currently be an undergrad / bachelors program student in year 1 or year 2 only.    
+-   Be studying computer science, computer engineering or a closely related technical fields.    
+-   Demonstrate a good academic record and passion for technology.
 ## Retreat Experiences
 
 To help you answer the why you should apply.
@@ -11,9 +26,7 @@ To help you answer the why you should apply.
 
  - [Sherya Gupta](https://github.com/ShreyaGupta08) - [Blog](https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877) 
  -  [Shaira Tabassum](https://github.com/shairatabassum) - [Blog](https://sites.google.com/view/shairatabassum/google-wtm-scholars-program-2019?fbclid=IwAR0R0t0ReJaHzcL2V-KlxiRUROGxoY4gIGYwTIhyJVRQsglzO9rBysZZbAM)
-
 - [Dasuni Geeganage](https://github.com/dasuni-30) - [Blog](https://medium.com/@dasunin30/my-experience-at-the-women-techmakers-scholarship-19-3cb26aeae455)
-
 -  [Tharushi Jayasekara](https://github.com/TharushiJay) - [Blog](https://blog.usejournal.com/women-techmakers-scholars-program-application-process-61b899f655d5) 
 - [Anannya Uberoi](https://medium.com/@anannyauberoi) - [Blog](https://medium.com/@anannyauberoi/my-google-anita-borg-scholarship-story-ac8049cb24a8)
 
@@ -28,7 +41,6 @@ To help you answer the why you should apply.
 ### The 2017 Cohort
 
 - [bhavyachandra](https://bhavya0x83b.wordpress.com/author/bhavyachandra/) - [Blog](https://bhavya0x83b.wordpress.com/2017/04/11/googles-anita-borg-scholarship/)
-
 - Dil - [Blog](http://dilsdomain.blogspot.com/2017/04/the-wtm-scholarship-previously-google.html)
 - [Shilpi Gupta](https://medium.com/@shilpi75) - [Blog](https://medium.com/streak-of-light/google-women-techmakers-scholarship-program-a56bf10da288)
 - [Shubhangi Kishore](https://medium.com/@shubhangi.kishore96) - [Blog](https://medium.com/@shubhangi.kishore96/google-women-techmakers-scholarship-experience-8ff3c33e7070)
@@ -36,8 +48,7 @@ To help you answer the why you should apply.
 
 ### The 2016 Cohort
 
- - [Diksha Rathi](https://github.com/Diksha-Rathi) - [Blog](http://diksha-rathi.github.io/2017/google-anitaborgscholarship-exerience/)
- 
+ - [Diksha Rathi](https://github.com/Diksha-Rathi) - [Blog](http://diksha-rathi.github.io/2017/google-anitaborgscholarship-exerience/) 
  - [Amy & Alma - Blog](https://students.googleblog.com/2016/11/spotlight-on-women-techmakers-scholars.html "Spotlight on Women Techmakers Scholars: Amy & Alma (Spoiler alert: application advice!)")
 
 ### The 2009 Cohort
