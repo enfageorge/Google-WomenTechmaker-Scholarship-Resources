@@ -62,6 +62,8 @@ To help you answer the why you should apply.
 
 ## Interview Preparation
 
+[Opportunity Handbook](https://handbook.aryamurali.com/) covering everything from validating opportunity to preparing SOP's - Arya Murali
+
 ### General Insights
 
 - Ashwag Alasmari - [Blog](https://ashwagalasmari.com/2018/08/24/409/)
@@ -74,8 +76,7 @@ To help you answer the why you should apply.
 - [Amalu Susan](https://github.com/AmaluSusan) 
 	-  [The Application Process](https://medium.com/@amalususan/application-process-for-google-women-techmakers-scholarship-f2b3e26ee207)
 	- [Essay Preparation](https://medium.com/@amalususan/application-for-google-women-techmakers-scholarship-essay-preparation-3269150d08a0)
-	- [Phone Interview with Googler](https://medium.com/@amalususan/phone-interview-with-googler-women-techmakers-scholarship-25177cbf4017)
-	 
+	- [Phone Interview with Googler](https://medium.com/@amalususan/phone-interview-with-googler-women-techmakers-scholarship-25177cbf4017) 
 - [Dinu Kumarasiri](https://github.com/sandarumk) - [Blog](https://medium.com/@sandarumk/google-women-techmakers-scholarship-interview-and-beyond-356fe8ab51d4)
 
  - [What is it like to interview for an Anita Borg scholarship?](https://www.quora.com/What-is-it-like-to-interview-for-an-Anita-Borg-scholarship)
