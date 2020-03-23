@@ -24,12 +24,13 @@ To help you answer the why you should apply.
 
 ### From the 2019 Cohort
 
- - [Sherya Gupta](https://github.com/ShreyaGupta08) - [Blog](https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877) 
+ - [Shreya Gupta](https://github.com/ShreyaGupta08) - [Blog](https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877) 
+ - [Enfa Rose George](https://github.com/enfageorge) - [Blog](https://medium.com/@enfageorge/google-womentechmakers-scholarship-the-experience-340532d9fd54)
  -  [Shaira Tabassum](https://github.com/shairatabassum) - [Blog](https://sites.google.com/view/shairatabassum/google-wtm-scholars-program-2019?fbclid=IwAR0R0t0ReJaHzcL2V-KlxiRUROGxoY4gIGYwTIhyJVRQsglzO9rBysZZbAM)
 - [Dasuni Geeganage](https://github.com/dasuni-30) - [Blog](https://medium.com/@dasunin30/my-experience-at-the-women-techmakers-scholarship-19-3cb26aeae455)
 -  [Tharushi Jayasekara](https://github.com/TharushiJay) - [Blog](https://blog.usejournal.com/women-techmakers-scholars-program-application-process-61b899f655d5) 
 - [Anannya Uberoi](https://medium.com/@anannyauberoi) - [Blog](https://medium.com/@anannyauberoi/my-google-anita-borg-scholarship-story-ac8049cb24a8)
-
+- Lavanya - [Video](lnkd.in/fQYMEPJ)
 
 ### The 2018 Cohort
 
@@ -65,6 +66,8 @@ To help you answer the why you should apply.
 
 - Ashwag Alasmari - [Blog](https://ashwagalasmari.com/2018/08/24/409/)
 - [Dinu Kumarasiri](https://github.com/sandarumk) - [Blog](https://medium.com/@sandarumk/google-women-techmakers-scholarship-program-a-k-a-google-anita-borg-memorial-scholarship-268205821266)
+- [Arya Murali - Rethink General Application Guidelines](https://blog.rethinkfoundation.in/general-opportunity-application-approach-c2522bb077cd)
+- [Rethink - WTM Scholarship wiki](https://wiki.rethinkfoundation.in/Google_WTM_Scholarship)
 
 ### Application Process
 
@@ -73,7 +76,6 @@ To help you answer the why you should apply.
 	- [Essay Preparation](https://medium.com/@amalususan/application-for-google-women-techmakers-scholarship-essay-preparation-3269150d08a0)
 	- [Phone Interview with Googler](https://medium.com/@amalususan/phone-interview-with-googler-women-techmakers-scholarship-25177cbf4017)
 	 
-
 - [Dinu Kumarasiri](https://github.com/sandarumk) - [Blog](https://medium.com/@sandarumk/google-women-techmakers-scholarship-interview-and-beyond-356fe8ab51d4)
 
  - [What is it like to interview for an Anita Borg scholarship?](https://www.quora.com/What-is-it-like-to-interview-for-an-Anita-Borg-scholarship)
