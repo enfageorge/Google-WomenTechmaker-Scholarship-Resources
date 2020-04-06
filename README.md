@@ -3,6 +3,8 @@
 
 A curation of Resources to help potensial scholarship aspirants answer questions like Why I should apply, how to apply and how I can put forward my best application.
 
+Click [here](https://www.womentechmakers.com/scholars) to apply.
+
 Taken from the official website:
 
 #### IMPORTANT NOTES
