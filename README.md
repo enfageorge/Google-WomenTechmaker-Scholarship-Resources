@@ -5,6 +5,11 @@ A curation of Resources to help potensial scholarship aspirants answer questions
 
 Click [here](https://www.womentechmakers.com/scholars) to apply.
 
+The writeup is organised as follow
+
+1. [Retreat Experiences](https://github.com/enfageorge/Google-WomenTechmaker-Scholarship-Resources/blob/master/README.md#retreat-experiences)
+2. [Preparation to Apply](https://github.com/enfageorge/Google-WomenTechmaker-Scholarship-Resources/blob/master/README.md#preparation)
+
 Taken from the official website:
 
 #### IMPORTANT NOTES
@@ -62,7 +67,7 @@ To help you answer the why you should apply.
 
 - [Korea WTM Scholar Stories](https://wtmscholar-kr.github.io/?fbclid=IwAR3YLA5f_O7tKbvIbykqCdYJ5gAMPvLV2npoFkpNNbYbmJsqqAPAvKNZX_c)
 
-## Interview Preparation
+## Preparation
 
 [Opportunity Handbook](https://handbook.aryamurali.com/) covering everything from validating opportunity to preparing SOP's - Arya Murali
 
